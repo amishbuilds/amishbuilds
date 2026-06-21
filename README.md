@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Amish 👋
 
-<!--
-**amishbuilds/amishbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student at GL Bajaj Institute of Technology and Management
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, Open Source, and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+* Java
+* Data Structures & Algorithms
+* Web Development
+* Git & GitHub
+
+## 🛠️ Tech Stack
+
+* Java
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+
+## 📂 Featured Projects
+
+### 🥗 NDDRS - Nutrient Deficiency Detection & Recommendation System
+
+A web application that analyzes nutrition-related data and provides personalized recommendations.
+
+## 🎯 2026 Goals
+
+* Contribute to Open Source
+* Participate in GSSoC and other OSS programs
+* Become a Microsoft Learn Student Ambassador
+* Strengthen DSA and Development Skills
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amishbuilds\&show_icons=true)
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/amishbuilds
+* LinkedIn:www.linkedin.com/in/md-amish-83917a386
+
+---
+
+⭐ Always learning, building, and improving.
