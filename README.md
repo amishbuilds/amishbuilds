@@ -29,8 +29,6 @@ A web application that analyzes nutrition-related data and provides personalized
 ## 🎯 2026 Goals
 
 * Contribute to Open Source
-* Participate in GSSoC and other OSS programs
-* Become a Microsoft Learn Student Ambassador
 * Strengthen DSA and Development Skills
 
 ## 📈 GitHub Stats
