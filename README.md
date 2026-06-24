@@ -30,6 +30,7 @@ A web application that analyzes nutrition-related data and provides personalized
 
 * Contribute to Open Source
 * Strengthen DSA and Development Skills
+  
 
 ## 📈 GitHub Stats
 
