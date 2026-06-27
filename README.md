@@ -20,11 +20,6 @@
 * Git
 * GitHub
 
-## 📂 Featured Projects
-
-### 🥗 NDDRS - Nutrient Deficiency Detection & Recommendation System
-
-A web application that analyzes nutrition-related data and provides personalized recommendations.
 
 ## 🎯 2026 Goals
 
